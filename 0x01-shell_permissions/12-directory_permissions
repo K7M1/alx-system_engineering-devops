@@ -1,1 +1,2 @@
 #!/bin/bash
+mkdir -p -m 707 ./my_dir
