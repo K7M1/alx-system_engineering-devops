@@ -1,2 +1,2 @@
 #!/bin/bash
-echo print float
+printf '%x\n' $NUM
