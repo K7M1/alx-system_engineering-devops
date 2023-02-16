@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((love exponent))
+echo $(($BREATH**$LOVE))
